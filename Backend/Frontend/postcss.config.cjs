@@ -4,7 +4,7 @@
 //     autoprefixer: {},
 //   },
 // };
-module.export default = {
+module.exports = {
   plugins: {
     autoprefixer: {},
     tailwindcss: {},
